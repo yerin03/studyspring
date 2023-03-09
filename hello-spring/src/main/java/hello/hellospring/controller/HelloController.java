@@ -53,5 +53,5 @@ public class HelloController {
 
     }
     //json방식으로 {"name";"yell"} 이케 나옴 아하 신기 ~
-    //view를 사용 안한다는 
+    //view를 사용 안한다는
 }
